@@ -37,7 +37,7 @@ pipeline {
         }
         post {
             always {
-                echo "Docker build success!!!!! 3rd from hykai1"
+                echo "Docker build success!!!!! 1st from hykai1"
             }
         }
     }
